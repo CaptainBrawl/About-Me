@@ -26,7 +26,7 @@ You know, I just... *do* things.</pre></blockquote>
 also <br>
     <q>Why so serious&quest;</q>
     </p>
-    <hr align="left" width=618>
+    <hr align="left" width=800>
     <h3>
       My (Fake)Hobbies
     </h3>
