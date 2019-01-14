@@ -11,7 +11,7 @@ This is me in code
     <h1>
       About Me
     </h1>
-    <img alt="A picture of me here"src="">
+    <img alt="A picture of me here" src="">
     <p>
       I know you would probably be wondering why is this my second webpage, well its a long story.
       <br>But now I am learning HTML again and I just broke(this is a technical term) this paragraph.
@@ -26,7 +26,7 @@ You know, I just... *do* things.</pre></blockquote>
 also <br>
     <q>Why so serious&quest;</q>
     </p>
-    <hr align="left" width=800>
+    <hr align="left" width=720>
     <h3>
       My (Fake)Hobbies
     </h3>
